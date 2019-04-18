@@ -1,2 +1,7 @@
-# exercise
-Fetch document from given url and process data
+# Exercise
+### Installation
+Before start, run following command to install NPM package.
+- npm install
+
+### Run Project 
+- node start.js
