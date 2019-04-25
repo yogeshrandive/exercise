@@ -31,7 +31,7 @@ module.exports ={
 	        }
 	    }
 	    arr.sort(function(a, b) {
-	        return b.value - a.value;
+	        return b.occurrence - a.occurrence;
 	    });
 	    return arr; // returns array
 	},
